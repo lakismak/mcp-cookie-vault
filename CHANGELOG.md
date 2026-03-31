@@ -5,8 +5,6 @@ All notable changes to MCP Cookie Vault will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
-
 ### Added
 - Initial release
 - Core functionality: save, load, delete, export, import cookies
@@ -26,7 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Explicit confirmation for sensitive operations
 - Domain-based access control
 
-## [1.0.0] - 2024-01-XX
+## [1.0.0] - 2026-03-31
 
 ### Added
 - Initial public release
