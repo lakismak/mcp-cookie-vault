@@ -89,7 +89,3 @@ We follow a coordinated disclosure policy:
 3. We develop and test a fix
 4. Fix is released
 5. Reporter is credited (with permission)
-
-## Contact
-
-For security-related questions: [your-email@example.com]
