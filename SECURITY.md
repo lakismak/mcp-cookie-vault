@@ -12,13 +12,7 @@ We take the security of MCP Cookie Vault seriously. If you believe you've found 
 
 ### How to Report
 
-1. **DO NOT** create a public GitHub issue
-2. Email: [your-email@example.com] (replace with actual email)
-3. Include:
-   - Description of the vulnerability
-   - Steps to reproduce
-   - Potential impact
-   - Suggested fix (if any)
+1. No way
 
 ### What to Expect
 
